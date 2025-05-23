@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats]  (https://github-readme-stats.vercel.app/api?username=mateusAlcantara-dv&theme=github_dark&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&count_private=true&line_height=25)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusAlcantara-dv&theme=github_dark&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&count_private=true&line_height=25)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusAlcantara-dv&layout=compact&theme=github_dark)]()
 <!--
 **mateusAlcantara-dv/mateusAlcantara-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
