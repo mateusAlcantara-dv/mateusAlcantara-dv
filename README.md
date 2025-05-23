@@ -1,4 +1,6 @@
 ## Hi there👋 I´m Mateus Alcantara
+- 🔭 I’m currently working on <a href = "https://www.linkedin.com/company/esigsoftware/">XP Inc.<a/> IT support
+- 📖 I’m currently focusing on mastering Flutter using the MVVM architecture, writing clean and maintainable code, and improving my skills in state management.
 
 <div>
   <a href="https://github.com/mateusAlcantara-dv" />
