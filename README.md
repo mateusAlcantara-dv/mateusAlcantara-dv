@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusAlcantara-dv&layout=compact&theme=github_dark)]()
 <!--
 **mateusAlcantara-dv/mateusAlcantara-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
